@@ -1,3 +1,3 @@
 # Nossas Vagas
 
-Projeto para divulgação de vagas.
+Divulgação de vagas da Styme.
